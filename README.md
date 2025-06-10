@@ -1,6 +1,6 @@
 ✅ Project Plan: Energy Price Forecasting with Time Series
 🔹 Objective
-Predict day-ahead electricity prices using open data from Nord Pool or Fingrid.
+Predict day-ahead electricity prices using open data from Fingrid.
 
 🔹 Tools & Tech
 Databricks (for data handling, modeling, and dashboarding)
